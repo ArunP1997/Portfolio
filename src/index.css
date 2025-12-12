@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-raleway;
+  }
+}
+
+/* Force blinking */
+.typed-cursor {
+  font-size: 1.5rem;
+  color: #fde047;
+  opacity: 1;
+  animation: blink 0.7s infinite !important;
+  animation-duration: 0.7s !important;
+  animation-iteration-count: infinite !important;
+  animation-timing-function: steps(1) !important;
+}
+
+@keyframes blink {
+  0%, 50% { opacity: 1; }
+  51%, 100% { opacity: 0; }
+}
+
+@media (min-width: 768px) {
+  .typed-cursor {
+    font-size: 2rem;
+  }
+}
