@@ -1,4 +1,4 @@
-# 🧑‍💻 Arun P – Portfolio
+# 🧑‍💻 My Portfolio
 
 A modern, responsive personal portfolio website built using **React** and **Tailwind CSS**, showcasing my professional background, projects, skills, and contact information.
 

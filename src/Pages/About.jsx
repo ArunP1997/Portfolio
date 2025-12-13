@@ -168,12 +168,12 @@ const About = ({ navHeight }) => {
 
           <div className="w-full lg:flex-1 lg:-ml-24 pr-4 lg:pr-20">
             <p className="text-sm sm:text-base lg:text-sm leading-relaxed tracking-wide text-gray-200 max-w-5xl">
-              I'm Arun Prasad, a QA Engineer with nearly 4 years of experience across manual testing
-              and Selenium automation. I also worked as a Junior Project Manager handling sprint
-              boards, planning, and cross-team coordination. During my master's in Applied Computer
-              Science, I developed full-stack applications using React, Vue.js, Flask, MongoDB &
-              Redis. My thesis involved fine-tuning multimodal VLMs to build a clinically oriented
-              medical chatbot that performs image–text reasoning.
+              I’m Arun Prasad, a software tech professional with nearly 4 years of experience working across software
+              quality, automation, and delivery support roles. Alongside hands-on technical work, I’ve also contributed
+              as a Junior Project Manager, supporting sprint planning, backlog management, and cross-team
+              coordination. During my master’s studies in Applied Computer Science, I worked on multiple academic
+              and practical projects, including full-stack application development using React, Vue.js, Flask, MongoDB,
+              and Redis, as well as advanced data-driven and AI-enabled systems involving image and text processing.
             </p>
           </div>
         </div>
